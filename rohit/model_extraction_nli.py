@@ -7,7 +7,7 @@ from itertools import cycle
 
 hf_api = HfApi(
     endpoint="https://huggingface.co",  # Can be a Private Hub endpoint.
-    token="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",  # Token is not persisted on the machine.
+    token="",  # Token is not persisted on the machine.
 )
 
 # filt = ModelFilter(task="text-classification")
@@ -61,8 +61,8 @@ def howManyLabelModels(token, mname):
 if __name__=='__main__' :
     pool=Pool(2)
     token_list=[
-        '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',
-        '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'
+        '',
+        ''
     ]
     results_nli = pool.starmap(howManyLabelModels, zip(cycle(token_list), nli_keyword_models))
     # results_non_nli = pool.starmap(howManyLabelModels, zip(cycle(token_list), nli_non_keyword_models))
