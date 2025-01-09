@@ -1,0 +1,102 @@
+Model Name,Model Description,,,,,,,,Model Sources [optional],,,,
+,Developed by,Funded by [optional],Shared by [optional],Model type,Language(s) (NLP),License,Finetuned from model [optional],,Repository,Paper [optional],Demo [optional],Label Information,Comments
+ProsusAI/finbert,NIA,NIA,FIA,FIA,NIA,NIA,FIA,,NIA,FIA,NIA,PIA,
+yiyanghkust/finbert-tone,NIA,NIA,FIA,FIA,NIA,NIA,FIA,,NIA,NIA,NIA,FIA,
+cardiffnlp/twitter-roberta-base-sentiment-latest,PIA,PIA,FIA,FIA,FIA,NIA,FIA,,FIA,FIA,NIA,FIA,
+cardiffnlp/twitter-xlm-roberta-base-sentiment,PIA,PIA,FIA,FIA,FIA,NIA,FIA,,FIA,FIA,NIA,PIA,"developed by, information is known from the company/organisation"
+cardiffnlp/twitter-roberta-base-sentiment,PIA,PIA,FIA,FIA,FIA,NIA,FIA,,FIA,FIA,NIA,FIA,"developed by, information is known from the company/organisation"
+blanchefort/rubert-base-cased-sentiment,NIA,NIA,FIA,FIA,FIA,NIA,FIA,,NIA,NIA,NIA,FIA,
+finiteautomata/beto-sentiment-analysis,NIA,NIA,FIA,FIA,FIA,FIA,FIA,,FIA,NIA,NIA,PIA,
+mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis,NIA,NIA,FIA,FIA,NIA,PIA,FIA,,NIA,NIA,NIA,PIA,
+HooshvareLab/bert-fa-base-uncased-sentiment-digikala,PIA,NIA,FIA,FIA,FIA,PIA,FIA,,FIA,NIA,NIA,PIA,
+ahmedrachid/FinancialBERT-Sentiment-Analysis,NIA,NIA,FIA,FIA,NIA,NIA,FIA,,NIA,NIA,NIA,PIA,
+koheiduck/bert-japanese-finetuned-sentiment,NIA,NIA,FIA,NIA,NIA,NIA,NIA,,NIA,NIA,NIA,PIA,the model card is completely empty for this model
+finiteautomata/bertweet-base-sentiment-analysis,NIA,NIA,FIA,FIA,FIA,FIA,FIA,,FIA,FIA,NIA,FIA,
+oliverguhr/german-sentiment-bert,PIA,PIA,FIA,FIA,FIA,PIA,FIA,,FIA,FIA,NIA,PIA,"devloped by, information is  known from the paper"
+christian-phu/bert-finetuned-japanese-sentiment,NIA,NIA,FIA,FIA,FIA,PIA,FIA,,NIA,NIA,NIA,PIA,
+blanchefort/rubert-base-cased-sentiment-rusentiment,NIA,NIA,FIA,FIA,FIA,NIA,FIA,,NIA,NIA,NIA,FIA,
+climatebert/distilroberta-base-climate-sentiment,NIA,NIA,FIA,FIA,NIA,NIA,FIA,,NIA,NIA,NIA,NIA,
+Seethal/sentiment_analysis_generic_dataset,NIA,NIA,FIA,FIA,FIA,NIA,FIA,,NIA,NIA,NIA,NIA,
+sbcBI/sentiment_analysis_model,NIA,NIA,FIA,FIA,FIA,PIA,FIA,,NIA,NIA,NIA,NIA,
+lxyuan/distilbert-base-multilingual-cased-sentiments-student,NIA,NIA,FIA,FIA,NIA,PIA,FIA,,NIA,NIA,NIA,PIA,
+snunlp/KR-FinBert-SC,NIA,NIA,FIA,FIA,FIA,NIA,FIA,,NIA,NIA,NIA,PIA,
+soleimanian/financial-roberta-large-sentiment,NIA,NIA,FIA,FIA,NIA,PIA,FIA,,NIA,NIA,NIA,PIA,
+RogerKam/roberta_RCADE_fine_tuned_sentiment_covid_news,NIA,NIA,FIA,NIA,NIA,PIA,FIA,,NIA,NIA,NIA,NIA,no information given about none dataset
+amansolanki/autonlp-Tweet-Sentiment-Extraction-20114061,NIA,NIA,FIA,NIA,NIA,NIA,NIA,,NIA,NIA,NIA,PIA,"I did not consider the validation metrics provided as a evaluation criteria for the model, AutoNlp model but no additional information provided"
+cardiffnlp/twitter-xlm-roberta-base-sentiment-multilingual,PIA,PIA,FIA,FIA,NIA,NIA,FIA,,NIA,NIA,NIA,PIA,
+RecordedFuture/Swedish-Sentiment-Fear,PIA,PIA,FIA,PIA,FIA,PIA,FIA,,NIA,NIA,NIA,NIA,"developed by, information is known from the company/organisation"
+knkarthick/Sentiment-Analysis,NIA,NIA,FIA,NIA,NIA,NIA,NIA,,NIA,NIA,NIA,PIA,model card is completely empty
+cardiffnlp/camembert-base-tweet-sentiment-fr,PIA,PIA,FIA,FIA,FIA,NIA,FIA,,NIA,NIA,NIA,PIA,"developed by, information is known from the company/organisation"
+samayash/finetuning-financial-news-sentiment,NIA,NIA,FIA,FIA,NIA,PIA,FIA,,NIA,NIA,NIA,NIA,no information given about none dataset
+sbcBI/sentiment_analysis,NIA,NIA,FIA,FIA,FIA,PIA,FIA,,NIA,NIA,NIA,NIA,
+yangheng/deberta-v3-base-absa-v1.1,NIA,NIA,FIA,FIA,NIA,PIA,FIA,,NIA,FIA,NIA,PIA,
+hakonmh/sentiment-xdistil-uncased,NIA,NIA,FIA,FIA,FIA,PIA,FIA,,FIA,FIA,NIA,PIA,
+avichr/heBERT_sentiment_analysis,PIA,NIA,FIA,FIA,NIA,NIA,FIA,,FIA,FIA,NIA,PIA,
+hw2942/bert-base-chinese-finetuning-financial-news-sentiment-v2,NIA,NIA,FIA,NIA,NIA,NIA,NIA,,NIA,NIA,NIA,PIA,model card is completely empty
+Sigma/financial-sentiment-analysis,NIA,NIA,FIA,FIA,NIA,NIA,FIA,,NIA,NIA,NIA,NIA,
+w11wo/indonesian-roberta-base-sentiment-classifier,FIA,NIA,FIA,FIA,FIA,PIA,FIA,,NIA,NIA,NIA,PIA,
+j-hartmann/sentiment-roberta-large-english-3-classes,NIA,NIA,FIA,FIA,FIA,NIA,FIA,,NIA,FIA,NIA,PIA,
+CAMeL-Lab/bert-base-arabic-camelbert-da-sentiment,PIA,PIA,FIA,FIA,FIA,PIA,FIA,,FIA,FIA,NIA,PIA,
+fergusq/finbert-finnsentiment,NIA,NIA,FIA,FIA,NIA,FIA,FIA,,NIA,NIA,NIA,PIA,
+abnersampaio/sentiment,NIA,NIA,FIA,NIA,NIA,PIA,NIA,,NIA,NIA,NIA,NIA,model card is completely empty 
+neuraly/bert-base-italian-cased-sentiment,PIA,PIA,FIA,FIA,FIA,PIA,FIA,,NIA,NIA,NIA,PIA,"developed by, information is known from the company/organisation"
+citizenlab/twitter-xlm-roberta-base-sentiment-finetunned,NIA,NIA,FIA,FIA,NIA,NIA,FIA,,NIA,NIA,NIA,PIA,
+MonoHime/rubert-base-cased-sentiment-new,FIA,NIA,FIA,FIA,NIA,NIA,FIA,,FIA,NIA,NIA,FIA,
+mdhugol/indonesia-bert-sentiment-classification,NIA,NIA,FIA,FIA,FIA,NIA,FIA,,NIA,NIA,NIA,FIA,
+Kyle1668/boss-sentiment-bert-base-uncased,NIA,NIA,FIA,NIA,NIA,NIA,NIA,,NIA,NIA,NIA,NIA,model card is completely empty for this model
+mwz/RomanUrduClassification,NIA,NIA,FIA,NIA,NIA,PIA,FIA,,NIA,NIA,NIA,NIA,no information given about none dataset
+philschmid/distilbert-base-multilingual-cased-sentiment-2,NIA,NIA,FIA,FIA,NIA,PIA,FIA,,NIA,NIA,NIA,PIA,
+lucas-leme/FinBERT-PT-BR,FIA,NIA,FIA,FIA,FIA,PIA,FIA,,NIA,FIA,NIA,FIA,"the provided paper was in  portugeese, so I was unable to get any information from the paper"
+peerapongch/baikal-sentiment-ball,NIA,NIA,FIA,NIA,NIA,NIA,NIA,,NIA,NIA,NIA,NIA,model card is completely empty for this model
+abhishek/autonlp-swahili-sentiment-615517563,NIA,NIA,FIA,NIA,NIA,NIA,NIA,,NIA,NIA,NIA,NIA,"I did not consider the validation metrics provided as a evaluation criteria for the model, trained with AutoNLP but no additional information provided"
+cointegrated/rubert-tiny-sentiment-balanced,NIA,NIA,FIA,FIA,FIA,NIA,FIA,,NIA,NIA,NIA,PIA,"details about training is given a colab link, so I have markled PIA for the same"
+Jean-Baptiste/roberta-large-financial-news-sentiment-en,NIA,NIA,FIA,FIA,FIA,PIA,FIA,,NIA,NIA,NIA,PIA,
+seara/rubert-tiny2-russian-sentiment,NIA,NIA,FIA,FIA,FIA,PIA,FIA,,FIA,NIA,NIA,FIA,
+mdraw/german-news-sentiment-bert,NIA,NIA,FIA,FIA,FIA,NIA,FIA,,FIA,NIA,NIA,PIA,
+BVK97/Discord-NFT-Sentiment,NIA,NIA,FIA,FIA,FIA,NIA,FIA,,FIA,NIA,NIA,FIA,
+emre/turkish-sentiment-analysis,NIA,NIA,FIA,NIA,NIA,NIA,NIA,,NIA,NIA,NIA,PIA,I did not consider the validation metrics provided as a evaluation criteria for the model
+alexandrainst/da-sentiment-base,FIA,NIA,FIA,FIA,FIA,FIA,FIA,,FIA,NIA,NIA,PIA,
+eevvgg/StanceBERTa,FIA,NIA,FIA,FIA,FIA,NIA,FIA,,FIA,NIA,NIA,PIA,
+ayameRushia/roberta-base-indonesian-1.5G-sentiment-analysis-smsa,NIA,NIA,FIA,FIA,FIA,NIA,FIA,,NIA,NIA,NIA,PIA,
+Ammar-alhaj-ali/arabic-MARBERT-sentiment,NIA,NIA,FIA,FIA,FIA,NIA,FIA,,NIA,NIA,NIA,PIA,
+yangheng/deberta-v3-large-absa-v1.1,PIA,PIA,FIA,FIA,FIA,PIA,FIA,,NIA,FIA,NIA,PIA,"devloped by, information is known from the paper"
+IAyoub/finetuning-bert-sentiment-reviews-2,NIA,NIA,FIA,FIA,NIA,PIA,FIA,,NIA,NIA,NIA,NIA,no information given about none dataset
+ayameRushia/bert-base-indonesian-1.5G-sentiment-analysis-smsa,NIA,NIA,FIA,FIA,FIA,PIA,FIA,,NIA,NIA,NIA,PIA,
+turing-usp/FinBertPTBR,FIA,NIA,FIA,FIA,FIA,PIA,FIA,,NIA,NIA,NIA,PIA,"As the author's information is given, developed by column is filled accordingly"
+Voicelab/herbert-base-cased-sentiment,PIA,PIA,FIA,NIA,FIA,PIA,FIA,,NIA,NIA,NIA,PIA,"developed by, is known as organization is given, and they trained it on their own private dataset, so I have marked NIA for the same, a blog post is given which contains the additional information"
+Tejas3/distillbert_base_uncased_80_equal,NIA,NIA,FIA,NIA,NIA,NIA,NIA,,NIA,NIA,NIA,PIA,no model card is avaliable for this model
+l3cube-pune/marathi-sentiment-md,NIA,NIA,FIA,FIA,FIA,PIA,FIA,,NIA,FIA,NIA,PIA,
+shashanksrinath/News_Sentiment_Analysis,NIA,NIA,FIA,FIA,NIA,NIA,FIA,,NIA,NIA,NIA,PIA,
+CAMeL-Lab/bert-base-arabic-camelbert-mix-sentiment,PIA,PIA,FIA,FIA,FIA,PIA,FIA,,FIA,FIA,NIA,PIA,
+Jorgeutd/bert-base-uncased-finetuned-surveyclassification,NIA,NIA,FIA,FIA,NIA,PIA,FIA,,NIA,NIA,NIA,PIA,
+cardiffnlp/twitter-roberta-base-dec2021-sentiment,PIA,PIA,FIA,FIA,NIA,NIA,FIA,,NIA,NIA,NIA,PIA,"Developed by, is known as the information about organisation is given"
+larskjeldgaard/senda,NIA,NIA,FIA,NIA,FIA,PIA,NIA,,NIA,NIA,NIA,PIA,
+Souvikcmsa/BERT_sentiment_analysis,NIA,NIA,FIA,NIA,NIA,NIA,NIA,,NIA,NIA,NIA,PIA,I did not consider the validation metrics provided as a evaluation criteria for the model
+cardiffnlp/xlm-twitter-politics-sentiment,PIA,PIA,FIA,FIA,FIA,NIA,FIA,,FIA,FIA,NIA,PIA,"Developed by, is known as the information about organisation is given, and information related to training and evaluation is given in the paper, which I marked PIA"
+rohanrajpal/bert-base-multilingual-codemixed-cased-sentiment,NIA,NIA,FIA,FIA,FIA,PIA,FIA,,NIA,NIA,NIA,FIA,
+hilmansw/indobert-finetuned-sentiment-happiness-index,NIA,NIA,FIA,FIA,NIA,PIA,FIA,,NIA,NIA,NIA,PIA,"it is given that model is trained on a private dataset, I have marked NIA for the training dataset column for this case"
+FinanceInc/auditor_sentiment_finetuned,NIA,NIA,FIA,FIA,NIA,NIA,FIA,,NIA,NIA,NIA,PIA,
+pysentimiento/roberta-targeted-sentiment-analysis,NIA,NIA,FIA,NIA,NIA,NIA,NIA,,NIA,NIA,NIA,FIA,no model card is avaliable for this model
+RecordedFuture/Swedish-Sentiment-Violence,PIA,PIA,FIA,FIA,FIA,PIA,FIA,,NIA,NIA,NIA,NIA,"the funded and developed by columns are filled PIA, as the information about them can be known from the organisations provided and I did not consider the validation metrics provided as a evaluation criteria for the model"
+poerwiyanto/bert-base-indonesian-522M-finetuned-sentiment,NIA,NIA,FIA,FIA,FIA,PIA,FIA,,NIA,NIA,NIA,NIA,
+MarieAngeA13/Sentiment-Analysis-BERT,NIA,NIA,FIA,FIA,NIA,PIA,NIA,,NIA,NIA,NIA,PIA,"the model card authors is given by a code, so I marked it as PIA"
+poom-sci/WangchanBERTa-finetuned-sentiment,NIA,NIA,FIA,NIA,PIA,PIA,NIA,,NIA,NIA,NIA,PIA,the model card is completely empty with a note that it has been created for study
+xaqren/sentiment_analysis,NIA,NIA,FIA,FIA,FIA,PIA,FIA,,NIA,NIA,NIA,NIA,
+Davlan/naija-twitter-sentiment-afriberta-large,PIA,PIA,FIA,FIA,FIA,NIA,FIA,,NIA,FIA,NIA,PIA,
+bardsai/finance-sentiment-zh-base,PIA,PIA,FIA,FIA,FIA,NIA,FIA,,NIA,NIA,NIA,PIA,"Developed by, is known as the information about organisation is given"
+seara/rubert-base-cased-russian-sentiment,NIA,NIA,FIA,FIA,FIA,PIA,FIA,,NIA,NIA,NIA,FIA,
+blanchefort/rubert-base-cased-sentiment-med,NIA,NIA,FIA,FIA,FIA,NIA,NIA,,NIA,NIA,NIA,FIA,
+hanifnoerr/Fine-tuned-Indonesian-Sentiment-Classifier,NIA,NIA,FIA,FIA,NIA,PIA,FIA,,NIA,NIA,NIA,PIA,
+RashidNLP/Finance-Sentiment-Classification,NIA,NIA,FIA,FIA,NIA,PIA,FIA,,NIA,NIA,NIA,PIA,
+RogerKam/roberta_fine_tuned_sentiment_newsmtsc,NIA,NIA,FIA,FIA,NIA,PIA,FIA,,NIA,NIA,NIA,NIA,
+abnersampaio/sentimentv2,NIA,NIA,FIA,NIA,NIA,PIA,NIA,,NIA,NIA,NIA,NIA,model card is completely empty
+cardiffnlp/xlm-roberta-base-tweet-sentiment-pt,PIA,PIA,FIA,FIA,FIA,NIA,FIA,,NIA,NIA,NIA,PIA,"Developed by, is known as the information about organisation is given"
+aari1995/German_Sentiment,FIA,NIA,FIA,FIA,FIA,NIA,FIA,,NIA,NIA,NIA,PIA,
+ncduy/phobert-large-finetuned-vietnamese_students_feedback,NIA,NIA,FIA,NIA,FIA,NIA,FIA,,NIA,NIA,NIA,PIA,
+ZiweiChen/FinBERT-FOMC,NIA,NIA,FIA,FIA,NIA,NIA,FIA,,FIA,NIA,NIA,PIA,"for more information they have given github repo link, I have marked PIA for all the information that we can get from repo, as its not directly mentioned in the model card"
+JP040/bert-german-sentiment-twitter,NIA,NIA,FIA,NIA,NIA,NIA,NIA,,NIA,NIA,NIA,PIA,the model card is completely empty for this model
+alger-ia/dziribert_sentiment,NIA,NIA,FIA,FIA,FIA,NIA,FIA,,FIA,FIA,NIA,PIA,"informationn related to training and evaluation is not given directly in the model card, but in can be seen in the paper they have provided, so I have marked them as PIA for those columns"
+blanchefort/rubert-base-cased-sentiment-rurewiews,NIA,NIA,FIA,FIA,FIA,NIA,FIA,,NIA,NIA,NIA,FIA,
+z-dickson/multilingual_sentiment_newspaper_headlines,NIA,NIA,FIA,FIA,FIA,PIA,FIA,,NIA,NIA,NIA,PIA,
+rasmodev/Covid-19_Sentiment_Analysis_RoBERTa_Model,NIA,NIA,FIA,NIA,NIA,PIA,NIA,,NIA,NIA,NIA,NIA,the model card is completely empty for this model
+CAMeL-Lab/bert-base-arabic-camelbert-msa-sentiment,PIA,PIA,FIA,FIA,FIA,PIA,FIA,,NIA,FIA,NIA,PIA,"The information about funded by, and other information which is not directly present in model card, but it's given that it's provided in the paper, so I have marked PIA for them"

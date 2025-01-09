@@ -1,0 +1,101 @@
+Model Name,Direct Use,Downstream Use [optional],Out-of-Scope Use,"Bias, Risks, and Limitations",Recommendations,How to Get Started with the Model,Comments
+ProsusAI/finbert,FIA,PIA,PIA,PIA,PIA,FIA,all PIA given in paper/blog
+yiyanghkust/finbert-tone,FIA,PIA,NIA,NIA,PIA,FIA,Recommendations for weights given in repo
+cardiffnlp/twitter-roberta-base-sentiment-latest,FIA,PIA,PIA,PIA,PIA,FIA,limitations and recommendations in paper
+cardiffnlp/twitter-xlm-roberta-base-sentiment,FIA,PIA,NIA,NIA,NIA,FIA,"Downstream use given in paper/repo but no out of scope use and bias,risks,limitations mentioned"
+cardiffnlp/twitter-roberta-base-sentiment,FIA,PIA,NIA,NIA,NIA,FIA,"Downstream use given in paper/repo but no out of scope use and bias,risks,limitations mentioned"
+blanchefort/rubert-base-cased-sentiment,FIA,NIA,NIA,NIA,NIA,FIA,Only use mentioned is short russian text classification
+finiteautomata/beto-sentiment-analysis,FIA,NIA,NIA,NIA,NIA,FIA,Only use mentioned is sentiment analysis in spanish
+mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis,FIA,NIA,NIA,NIA,NIA,FIA,Only use is financial sentiment analysis
+HooshvareLab/bert-fa-base-uncased-sentiment-digikala,FIA,PIA,NIA,PIA,PIA,FIA,Downstream use given in repo
+ahmedrachid/FinancialBERT-Sentiment-Analysis,FIA,PIA,NIA,NIA,NIA,FIA,"use only mentioned in model name, PIA in paper"
+koheiduck/bert-japanese-finetuned-sentiment,NIA,NIA,NIA,NIA,NIA,FIA,
+finiteautomata/bertweet-base-sentiment-analysis,FIA,PIA,NIA,PIA,PIA,FIA,"Recommendations given in repo, biases given in paper, downstream in paper"
+oliverguhr/german-sentiment-bert,FIA,PIA,NIA,PIA,PIA,FIA,"Only use mentioned is german text classification, bias,recommendations given in paper"
+christian-phu/bert-finetuned-japanese-sentiment,FIA,NIA,NIA,NIA,NIA,FIA,only direct use given
+blanchefort/rubert-base-cased-sentiment-rusentiment,FIA,NIA,NIA,NIA,NIA,FIA,
+climatebert/distilroberta-base-climate-sentiment,FIA,NIA,NIA,FIA,FIA,FIA,
+Seethal/sentiment_analysis_generic_dataset,FIA,FIA,FIA,NIA,NIA,FIA,
+sbcBI/sentiment_analysis_model,FIA,FIA,FIA,PIA,PIA,FIA,PIA given in repo and paper
+lxyuan/distilbert-base-multilingual-cased-sentiments-student,FIA,PIA,NIA,FIA,FIA,FIA,uses given in repo
+snunlp/KR-FinBert-SC,FIA,FIA,NIA,NIA,NIA,FIA,
+soleimanian/financial-roberta-large-sentiment,FIA,NIA,NIA,NIA,NIA,FIA,
+RogerKam/roberta_RCADE_fine_tuned_sentiment_covid_news,FIA,NIA,NIA,NIA,NIA,FIA,
+amansolanki/autonlp-Tweet-Sentiment-Extraction-20114061,FIA,NIA,NIA,NIA,NIA,FIA,"Only how to use in transformers is there, and problem type is multi class classification"
+cardiffnlp/twitter-xlm-roberta-base-sentiment-multilingual,FIA,PIA,NIA,NIA,NIA,FIA,downstream in repo/paper
+RecordedFuture/Swedish-Sentiment-Fear,FIA,FIA,FIA,PIA,PIA,FIA,Limitations of model input and recommendations for input are provided in the model card
+knkarthick/Sentiment-Analysis,NIA,NIA,NIA,NIA,NIA,FIA,"Based on model name, we only know that it is sentiment analysis"
+cardiffnlp/camembert-base-tweet-sentiment-fr,FIA,NIA,NIA,NIA,NIA,FIA,only direct use given
+samayash/finetuning-financial-news-sentiment,FIA,NIA,NIA,NIA,NIA,FIA,"In model card it has written that there is no downstream use and hence information available, and no out of scope use also"
+sbcBI/sentiment_analysis,FIA,FIA,FIA,PIA,PIA,FIA,limitations on how the model can be used and its recommendations are given in the github repo
+yangheng/deberta-v3-base-absa-v1.1,FIA,PIA,NIA,NIA,NIA,FIA,"Downstream use and examples given in repo, no info about bias, risks, limitations and out of scope use"
+hakonmh/sentiment-xdistil-uncased,FIA,NIA,NIA,NIA,NIA,FIA,"No downstream use, or bias risks, limitations and recommendations for it"
+avichr/heBERT_sentiment_analysis,FIA,FIA,NIA,NIA,NIA,FIA,"no bias, risks, limitations and recommendations for it given in model card"
+hw2942/bert-base-chinese-finetuning-financial-news-sentiment-v2,NIA,NIA,NIA,NIA,NIA,FIA,No model card
+Sigma/financial-sentiment-analysis,PIA,NIA,NIA,NIA,NIA,FIA,Direct use is only in model name
+w11wo/indonesian-roberta-base-sentiment-classifier,FIA,FIA,NIA,NIA,NIA,FIA,"Bias,risks,limitations not given in model card or paper"
+j-hartmann/sentiment-roberta-large-english-3-classes,FIA,NIA,NIA,NIA,NIA,FIA,"Bias,risks,limitations not given in model card or paper"
+CAMeL-Lab/bert-base-arabic-camelbert-da-sentiment,FIA,PIA,NIA,FIA,FIA,FIA,One limitation and its recommendation mentioned in the model card
+fergusq/finbert-finnsentiment,PIA,PIA,NIA,NIA,NIA,FIA,"Bias,risks,limitations not given in model card or paper, direct use also not mentioned in model card"
+abnersampaio/sentiment,NIA,NIA,NIA,NIA,NIA,FIA,only How to use in transformers is there
+neuraly/bert-base-italian-cased-sentiment,FIA,NIA,NIA,FIA,NIA,FIA,"Direct use, bias, risks and limitations given"
+citizenlab/twitter-xlm-roberta-base-sentiment-finetunned,FIA,NIA,NIA,NIA,NIA,FIA,Direct used mentioned
+MonoHime/rubert-base-cased-sentiment-new,FIA,NIA,FIA,FIA,FIA,FIA,All FIA given in model card
+mdhugol/indonesia-bert-sentiment-classification,FIA,NIA,NIA,NIA,NIA,FIA,Only direct use and how to use model info available
+Kyle1668/boss-sentiment-bert-base-uncased,NIA,NIA,NIA,NIA,NIA,FIA,No model card
+mwz/RomanUrduClassification,PIA,NIA,NIA,NIA,NIA,FIA,Direct use is only in model name
+philschmid/distilbert-base-multilingual-cased-sentiment-2,FIA,NIA,NIA,NIA,NIA,FIA,"Bias,risks,limitations and its recommendations not mentioned"
+lucas-leme/FinBERT-PT-BR,FIA,FIA,NIA,NIA,NIA,FIA,"Bias,risks,limitations and its recommendations not mentioned"
+peerapongch/baikal-sentiment-ball,NIA,NIA,NIA,NIA,NIA,FIA,no model card
+abhishek/autonlp-swahili-sentiment-615517563,FIA,NIA,NIA,NIA,NIA,FIA,only direct use and how to use model info available
+cointegrated/rubert-tiny-sentiment-balanced,FIA,NIA,NIA,NIA,NIA,FIA,only direct use and how to use model info available
+Jean-Baptiste/roberta-large-financial-news-sentiment-en,FIA,NIA,NIA,NIA,NIA,FIA,only direct use and how to use model info available
+seara/rubert-tiny2-russian-sentiment,FIA,PIA,NIA,NIA,NIA,FIA,"only direct use and how to use model info available, downstream use given in repo"
+mdraw/german-news-sentiment-bert,FIA,PIA,NIA,NIA,NIA,FIA,PIA given in repo/paper
+BVK97/Discord-NFT-Sentiment,FIA,NIA,NIA,NIA,NIA,FIA,Only direct use mentioned in model card
+emre/turkish-sentiment-analysis,FIA,NIA,NIA,NIA,NIA,FIA,Only direct use mentioned in model card
+alexandrainst/da-sentiment-base,FIA,PIA,FIA,FIA,FIA,FIA,"FIA given in model card, downstream use given in repo"
+eevvgg/StanceBERTa,FIA,FIA,NIA,NIA,NIA,FIA,FIA given in model card
+ayameRushia/roberta-base-indonesian-1.5G-sentiment-analysis-smsa,FIA,NIA,NIA,NIA,NIA,FIA,FIA given in model card
+Ammar-alhaj-ali/arabic-MARBERT-sentiment,FIA,NIA,NIA,NIA,NIA,FIA,only direct use given in model card
+yangheng/deberta-v3-large-absa-v1.1,FIA,PIA,NIA,PIA,PIA,FIA,"downstream in repo, limitations and recommendations given in paper"
+IAyoub/finetuning-bert-sentiment-reviews-2,FIA,NIA,NIA,NIA,NIA,FIA,only direct use given in model card
+ayameRushia/bert-base-indonesian-1.5G-sentiment-analysis-smsa,FIA,NIA,NIA,NIA,NIA,FIA,only direct use given in model card
+turing-usp/FinBertPTBR,FIA,NIA,NIA,NIA,NIA,FIA,only direct use given in model card
+Voicelab/herbert-base-cased-sentiment,FIA,NIA,NIA,PIA,PIA,FIA,"only direct use given in model card, PIA given in blog"
+Tejas3/distillbert_base_uncased_80_equal,NIA,NIA,NIA,NIA,NIA,FIA,no information given
+l3cube-pune/marathi-sentiment-md,FIA,FIA,PIA,PIA,PIA,FIA,PIA given in paper/repo
+shashanksrinath/News_Sentiment_Analysis,FIA,NIA,NIA,NIA,NIA,FIA,only direct use given in model card
+CAMeL-Lab/bert-base-arabic-camelbert-mix-sentiment,FIA,PIA,NIA,FIA,FIA,FIA,One limitation and its recommendation mentioned in the model card
+Jorgeutd/bert-base-uncased-finetuned-surveyclassification,FIA,NIA,NIA,FIA,NIA,FIA,FIA given in model card
+cardiffnlp/twitter-roberta-base-dec2021-sentiment,FIA,PIA,NIA,NIA,NIA,FIA,PIA given in paper/repo
+larskjeldgaard/senda,FIA,NIA,NIA,NIA,NIA,FIA,only direct use given in model card
+Souvikcmsa/BERT_sentiment_analysis,FIA,NIA,NIA,NIA,NIA,FIA,only direct use given in model card
+cardiffnlp/xlm-twitter-politics-sentiment,FIA,PIA,PIA,PIA,PIA,FIA,PIA given in papers (in this model 2 papers given)
+rohanrajpal/bert-base-multilingual-codemixed-cased-sentiment,FIA,NIA,NIA,NIA,NIA,FIA,only direct use given in model card
+hilmansw/indobert-finetuned-sentiment-happiness-index,FIA,NIA,NIA,NIA,NIA,FIA,only direct use given in model card
+FinanceInc/auditor_sentiment_finetuned,FIA,NIA,NIA,NIA,NIA,FIA,only direct use given in model card
+pysentimiento/roberta-targeted-sentiment-analysis,NIA,NIA,NIA,NIA,NIA,FIA,no information given
+RecordedFuture/Swedish-Sentiment-Violence,FIA,NIA,FIA,FIA,FIA,FIA,Where this model won't work has been mentioned
+poerwiyanto/bert-base-indonesian-522M-finetuned-sentiment,FIA,NIA,NIA,NIA,NIA,FIA,only direct use given in model card
+MarieAngeA13/Sentiment-Analysis-BERT,FIA,FIA,NIA,NIA,NIA,FIA,Downstream task given in model card
+poom-sci/WangchanBERTa-finetuned-sentiment,FIA,NIA,NIA,NIA,NIA,FIA,Direct use given in tag
+xaqren/sentiment_analysis,FIA,FIA,FIA,NIA,NIA,FIA,"No downstream use is possible (mentioned in model card, hence indirectly out of scope use mentioned)"
+Davlan/naija-twitter-sentiment-afriberta-large,FIA,PIA,NIA,FIA,NIA,FIA,Downstream task given in paper
+bardsai/finance-sentiment-zh-base,FIA,NIA,NIA,NIA,NIA,FIA,only direct use given
+seara/rubert-base-cased-russian-sentiment,FIA,PIA,NIA,NIA,NIA,FIA,"only direct use given, downstream in repo"
+blanchefort/rubert-base-cased-sentiment-med,FIA,NIA,NIA,NIA,NIA,FIA,only direct use given
+hanifnoerr/Fine-tuned-Indonesian-Sentiment-Classifier,FIA,NIA,NIA,NIA,NIA,FIA,only direct use given
+RashidNLP/Finance-Sentiment-Classification,FIA,NIA,NIA,NIA,NIA,FIA,only direct use given
+RogerKam/roberta_fine_tuned_sentiment_newsmtsc,FIA,NIA,NIA,NIA,NIA,FIA,only direct use given
+abnersampaio/sentimentv2,NIA,NIA,NIA,NIA,NIA,FIA,no information given
+cardiffnlp/xlm-roberta-base-tweet-sentiment-pt,FIA,NIA,NIA,NIA,NIA,FIA,only direct use given
+aari1995/German_Sentiment,FIA,NIA,NIA,NIA,NIA,FIA,only direct use given
+ncduy/phobert-large-finetuned-vietnamese_students_feedback,FIA,NIA,NIA,NIA,NIA,FIA,only direct use given
+ZiweiChen/FinBERT-FOMC,FIA,NIA,NIA,NIA,NIA,FIA,only direct use given
+JP040/bert-german-sentiment-twitter,NIA,NIA,NIA,NIA,NIA,FIA,no information given
+alger-ia/dziribert_sentiment,FIA,PIA,NIA,PIA,PIA,FIA,"bias,risks,limitations and its recommendations given in repo, downstream use in paper"
+blanchefort/rubert-base-cased-sentiment-rurewiews,FIA,NIA,NIA,NIA,NIA,FIA,only direct use given
+z-dickson/multilingual_sentiment_newspaper_headlines,FIA,NIA,NIA,NIA,NIA,FIA,only direct use given
+rasmodev/Covid-19_Sentiment_Analysis_RoBERTa_Model,NIA,NIA,NIA,NIA,NIA,FIA,no information given
+CAMeL-Lab/bert-base-arabic-camelbert-msa-sentiment,FIA,PIA,NIA,FIA,FIA,FIA,One limitation and its recommendation mentioned in the model card (which version of transformers to use)

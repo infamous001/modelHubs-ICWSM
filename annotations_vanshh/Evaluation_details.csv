@@ -1,0 +1,101 @@
+Model Name,Testing Data,Factors,Metrics,Results,Summary,Comments
+ProsusAI/finbert,PIA,PIA,PIA,PIA,PIA,Available in paper/blog
+yiyanghkust/finbert-tone,FIA,PIA,PIA,PIA,PIA,all PIA in paper.repo
+cardiffnlp/twitter-roberta-base-sentiment-latest,PIA,PIA,PIA,PIA,PIA,Available in paper (all)
+cardiffnlp/twitter-xlm-roberta-base-sentiment,PIA,PIA,PIA,PIA,PIA,All columns given in paper
+cardiffnlp/twitter-roberta-base-sentiment,PIA,PIA,PIA,PIA,PIA,All columns given in paper
+blanchefort/rubert-base-cased-sentiment,NIA,NIA,NIA,NIA,NIA,No info given
+finiteautomata/beto-sentiment-analysis,PIA,PIA,PIA,PIA,PIA,All these columns given in paper
+mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis,NIA,NIA,FIA,FIA,NIA,Training results and metrics given
+HooshvareLab/bert-fa-base-uncased-sentiment-digikala,FIA,NIA,PIA,FIA,PIA,
+ahmedrachid/FinancialBERT-Sentiment-Analysis,FIA,PIA,FIA,FIA,PIA,PIA columns given in paper
+koheiduck/bert-japanese-finetuned-sentiment,NIA,NIA,NIA,NIA,NIA,
+finiteautomata/bertweet-base-sentiment-analysis,PIA,PIA,PIA,PIA,PIA,All columns given in paper
+oliverguhr/german-sentiment-bert,PIA,PIA,FIA,PIA,PIA,PIA columns given in paper and repo
+christian-phu/bert-finetuned-japanese-sentiment,FIA,NIA,FIA,FIA,NIA,assuming data to split into test and train
+blanchefort/rubert-base-cased-sentiment-rusentiment,FIA,NIA,NIA,NIA,NIA,assuming data to split into test and train
+climatebert/distilroberta-base-climate-sentiment,FIA,NIA,NIA,NIA,NIA,assuming data to split into test and train
+Seethal/sentiment_analysis_generic_dataset,NIA,NIA,NIA,NIA,FIA,
+sbcBI/sentiment_analysis_model,PIA,PIA,PIA,PIA,PIA,Given in paper/repo
+lxyuan/distilbert-base-multilingual-cased-sentiments-student,FIA,NIA,PIA,PIA,PIA,assuming data to split into test and train
+snunlp/KR-FinBert-SC,FIA,NIA,FIA,FIA,NIA,assuming data to split into test and train
+soleimanian/financial-roberta-large-sentiment,FIA,NIA,PIA,PIA,NIA,"assuming data to split into test and train, PIA in colab"
+RogerKam/roberta_RCADE_fine_tuned_sentiment_covid_news,FIA,NIA,FIA,FIA,NIA,assuming data to split into test and train
+amansolanki/autonlp-Tweet-Sentiment-Extraction-20114061,NIA,NIA,FIA,FIA,NIA,Results and metrics are shown in model card
+cardiffnlp/twitter-xlm-roberta-base-sentiment-multilingual,FIA,PIA,FIA,FIA,PIA,"FIA in model card, PIA in repo/paper"
+RecordedFuture/Swedish-Sentiment-Fear,FIA,NIA,FIA,FIA,NIA,"Results and metrics are shown in model card, assuming data to split into test and train"
+knkarthick/Sentiment-Analysis,NIA,NIA,NIA,NIA,NIA,no information given
+cardiffnlp/camembert-base-tweet-sentiment-fr,FIA,NIA,FIA,FIA,NIA,"assuming data to split into test and train, Results and metrics are shown in model card"
+samayash/finetuning-financial-news-sentiment,NIA,NIA,FIA,FIA,NIA,
+sbcBI/sentiment_analysis,PIA,PIA,PIA,PIA,PIA,All of these coulmns given in paper
+yangheng/deberta-v3-base-absa-v1.1,FIA,PIA,PIA,PIA,PIA,All PIA columns in paper or repo
+hakonmh/sentiment-xdistil-uncased,FIA,PIA,FIA,FIA,PIA,All PIA columns in paper
+avichr/heBERT_sentiment_analysis,FIA,PIA,FIA,FIA,PIA,All PIA columns in paper or repo
+hw2942/bert-base-chinese-finetuning-financial-news-sentiment-v2,NIA,NIA,NIA,NIA,NIA,No model card
+Sigma/financial-sentiment-analysis,NIA,NIA,FIA,FIA,NIA,Only metrics and eval results given
+w11wo/indonesian-roberta-base-sentiment-classifier,PIA,PIA,FIA,FIA,PIA,Only results and metrics given in model card
+j-hartmann/sentiment-roberta-large-english-3-classes,PIA,PIA,PIA,PIA,PIA,Given in paper
+CAMeL-Lab/bert-base-arabic-camelbert-da-sentiment,FIA,PIA,PIA,PIA,PIA,Given in paper/repo
+fergusq/finbert-finnsentiment,FIA,PIA,FIA,FIA,PIA,"Metric, results and dataset info given in model card, rest, indirectly in paper"
+abnersampaio/sentiment,NIA,NIA,NIA,NIA,NIA,No information given
+neuraly/bert-base-italian-cased-sentiment,FIA,FIA,FIA,FIA,NIA,"FIA given in model card. Factor is given in bias, risks and limitations as it talks about domain"
+citizenlab/twitter-xlm-roberta-base-sentiment-finetunned,NIA,NIA,FIA,FIA,NIA,Results and metrics shown in model card
+MonoHime/rubert-base-cased-sentiment-new,NIA,NIA,NIA,NIA,NIA,No information given
+mdhugol/indonesia-bert-sentiment-classification,NIA,NIA,NIA,NIA,NIA,No information given
+Kyle1668/boss-sentiment-bert-base-uncased,NIA,NIA,NIA,NIA,NIA,None mentioned
+mwz/RomanUrduClassification,NIA,NIA,NIA,NIA,NIA,None mentioned
+philschmid/distilbert-base-multilingual-cased-sentiment-2,FIA,NIA,FIA,FIA,NIA,only FIA given in model card
+lucas-leme/FinBERT-PT-BR,PIA,PIA,PIA,PIA,PIA,All in paper
+peerapongch/baikal-sentiment-ball,NIA,NIA,NIA,NIA,NIA,none mentioned
+abhishek/autonlp-swahili-sentiment-615517563,NIA,NIA,FIA,NIA,NIA,only metrics given
+cointegrated/rubert-tiny-sentiment-balanced,NIA,NIA,FIA,FIA,NIA,Results and metrics shown in model card
+Jean-Baptiste/roberta-large-financial-news-sentiment-en,FIA,NIA,FIA,FIA,NIA,Results and metrics shown in model card
+seara/rubert-tiny2-russian-sentiment,FIA,PIA,FIA,FIA,NIA,"PIA given in repo, FIA given in model repo"
+mdraw/german-news-sentiment-bert,PIA,PIA,PIA,PIA,PIA,Given in paper/repo
+BVK97/Discord-NFT-Sentiment,NIA,NIA,NIA,NIA,NIA,No information given
+emre/turkish-sentiment-analysis,NIA,NIA,FIA,FIA,NIA,eval metrics and results given
+alexandrainst/da-sentiment-base,PIA,NIA,FIA,PIA,NIA,"only F1 metric mentioned, results and data given in repo"
+eevvgg/StanceBERTa,PIA,FIA,FIA,FIA,NIA,Evaluation metrics and results given in model card and colab notebook
+ayameRushia/roberta-base-indonesian-1.5G-sentiment-analysis-smsa,NIA,NIA,FIA,FIA,NIA,Results and metrics shown in model card
+Ammar-alhaj-ali/arabic-MARBERT-sentiment,NIA,NIA,NIA,NIA,NIA,No information given
+yangheng/deberta-v3-large-absa-v1.1,FIA,PIA,PIA,PIA,PIA,"PIA in paper, FIA in model card"
+IAyoub/finetuning-bert-sentiment-reviews-2,NIA,NIA,FIA,FIA,NIA,Results and metrics shown in model card
+ayameRushia/bert-base-indonesian-1.5G-sentiment-analysis-smsa,NIA,NIA,FIA,FIA,NIA,Results and metrics shown in model card
+turing-usp/FinBertPTBR,NIA,NIA,NIA,NIA,NIA,No information given
+Voicelab/herbert-base-cased-sentiment,NIA,NIA,PIA,PIA,PIA,PIA given in blog
+Tejas3/distillbert_base_uncased_80_equal,NIA,NIA,NIA,NIA,NIA,No information given
+l3cube-pune/marathi-sentiment-md,FIA,PIA,PIA,PIA,PIA,PIA given in paper/repo
+shashanksrinath/News_Sentiment_Analysis,NIA,NIA,NIA,NIA,NIA,No information given
+CAMeL-Lab/bert-base-arabic-camelbert-mix-sentiment,FIA,PIA,PIA,PIA,PIA,Given in paper/repo
+Jorgeutd/bert-base-uncased-finetuned-surveyclassification,FIA,FIA,FIA,FIA,NIA,only FIA given in model card
+cardiffnlp/twitter-roberta-base-dec2021-sentiment,FIA,PIA,FIA,FIA,PIA,PIA given in paper/repo
+larskjeldgaard/senda,NIA,NIA,NIA,NIA,NIA,No information given
+Souvikcmsa/BERT_sentiment_analysis,NIA,NIA,FIA,FIA,NIA,Results and metrics shown in model card
+cardiffnlp/xlm-twitter-politics-sentiment,PIA,PIA,PIA,PIA,PIA,PIA given in paper/repo
+rohanrajpal/bert-base-multilingual-codemixed-cased-sentiment,FIA,NIA,FIA,FIA,NIA,"test data, results and metrics given"
+hilmansw/indobert-finetuned-sentiment-happiness-index,NIA,NIA,FIA,FIA,NIA,Results and metrics shown in model card
+FinanceInc/auditor_sentiment_finetuned,FIA,NIA,FIA,FIA,NIA,Results and metrics shown in model card
+pysentimiento/roberta-targeted-sentiment-analysis,NIA,NIA,NIA,NIA,NIA,No information given
+RecordedFuture/Swedish-Sentiment-Violence,NIA,FIA,FIA,FIA,NIA,FIA given in model card
+poerwiyanto/bert-base-indonesian-522M-finetuned-sentiment,FIA,NIA,FIA,FIA,NIA,"results and metrics shown in model card, Assuming data is split into test and train"
+MarieAngeA13/Sentiment-Analysis-BERT,NIA,NIA,NIA,NIA,NIA,No information given
+poom-sci/WangchanBERTa-finetuned-sentiment,NIA,NIA,NIA,NIA,NIA,No information given
+xaqren/sentiment_analysis,NIA,NIA,NIA,NIA,NIA,No information given
+Davlan/naija-twitter-sentiment-afriberta-large,FIA,PIA,FIA,FIA,PIA,PIA columns given in paper
+bardsai/finance-sentiment-zh-base,FIA,NIA,FIA,FIA,NIA,Assuming data is split into test and train
+seara/rubert-base-cased-russian-sentiment,FIA,NIA,FIA,FIA,NIA,"Results and metrics given in model card, assuming data split into test and train"
+blanchefort/rubert-base-cased-sentiment-med,FIA,NIA,NIA,NIA,NIA,data info given
+hanifnoerr/Fine-tuned-Indonesian-Sentiment-Classifier,FIA,NIA,FIA,FIA,NIA,"data info given, results and metrics given"
+RashidNLP/Finance-Sentiment-Classification,FIA,NIA,NIA,NIA,NIA,data info given
+RogerKam/roberta_fine_tuned_sentiment_newsmtsc,FIA,NIA,FIA,FIA,NIA,results and metrics given
+abnersampaio/sentimentv2,NIA,NIA,NIA,NIA,NIA,no information given
+cardiffnlp/xlm-roberta-base-tweet-sentiment-pt,FIA,NIA,FIA,FIA,NIA,data info given
+aari1995/German_Sentiment,NIA,NIA,NIA,NIA,NIA,no information given
+ncduy/phobert-large-finetuned-vietnamese_students_feedback,NIA,NIA,FIA,FIA,NIA,results and metrics given
+ZiweiChen/FinBERT-FOMC,PIA,PIA,PIA,PIA,PIA,All columns given in repo
+JP040/bert-german-sentiment-twitter,NIA,NIA,NIA,NIA,NIA,no information given
+alger-ia/dziribert_sentiment,PIA,PIA,PIA,PIA,PIA,Given in paper/repo (all PIA)
+blanchefort/rubert-base-cased-sentiment-rurewiews,FIA,NIA,NIA,NIA,NIA,assuming data to be split into test and train
+z-dickson/multilingual_sentiment_newspaper_headlines,FIA,NIA,FIA,FIA,NIA,FIA info given in model card
+rasmodev/Covid-19_Sentiment_Analysis_RoBERTa_Model,NIA,NIA,NIA,NIA,NIA,no information given
+CAMeL-Lab/bert-base-arabic-camelbert-msa-sentiment,FIA,PIA,PIA,PIA,PIA,PIA in paper/repo

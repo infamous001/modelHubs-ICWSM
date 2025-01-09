@@ -1,0 +1,101 @@
+Model Name,Training Data,Training Procedure,Preprocessing [optional],Training Hyperparameters,"Speeds, Sizes, Times [optional]",Comments
+ProsusAI/finbert,PIA,PIA,PIA,PIA,PIA,Available in paper
+yiyanghkust/finbert-tone,FIA,PIA,PIA,PIA,FIA,All PIA given in paper
+cardiffnlp/twitter-roberta-base-sentiment-latest,FIA,PIA,PIA,PIA,PIA,"training procedure,hyperparameter available,time and size analysis in paper"
+cardiffnlp/twitter-xlm-roberta-base-sentiment,PIA,PIA,PIA,PIA,PIA,All columns given in paper
+cardiffnlp/twitter-roberta-base-sentiment,FIA,PIA,PIA,PIA,PIA,All PIA given in paper
+blanchefort/rubert-base-cased-sentiment,FIA,NIA,NIA,NIA,NIA,Only training datasets given in model card
+finiteautomata/beto-sentiment-analysis,PIA,PIA,PIA,PIA,PIA,All these columns info given in paper
+mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis,FIA,NIA,NIA,FIA,FIA,Size of parameters is given
+HooshvareLab/bert-fa-base-uncased-sentiment-digikala,FIA,PIA,PIA,PIA,NIA,training procedure PIA given in repo
+ahmedrachid/FinancialBERT-Sentiment-Analysis,FIA,PIA,PIA,FIA,PIA,PIA columns given in paper
+koheiduck/bert-japanese-finetuned-sentiment,NIA,NIA,NIA,NIA,NIA,
+finiteautomata/bertweet-base-sentiment-analysis,PIA,PIA,PIA,PIA,PIA,All columns given in paper and repo
+oliverguhr/german-sentiment-bert,FIA,PIA,PIA,PIA,FIA,"PIA columns given in paper and repo, model size given above demo"
+christian-phu/bert-finetuned-japanese-sentiment,FIA,NIA,NIA,FIA,NIA,
+blanchefort/rubert-base-cased-sentiment-rusentiment,FIA,NIA,NIA,NIA,FIA,size of parameters mentioned
+climatebert/distilroberta-base-climate-sentiment,FIA,NIA,NIA,NIA,FIA,size of parameters mentioned
+Seethal/sentiment_analysis_generic_dataset,NIA,NIA,NIA,NIA,NIA,
+sbcBI/sentiment_analysis_model,PIA,PIA,PIA,PIA,PIA,All columns given in paper and repo
+lxyuan/distilbert-base-multilingual-cased-sentiments-student,FIA,FIA,NIA,FIA,FIA,size of parameters mentioned
+snunlp/KR-FinBert-SC,FIA,FIA,NIA,FIA,FIA,FIA in model card
+soleimanian/financial-roberta-large-sentiment,FIA,NIA,NIA,NIA,NIA,Info about data given
+RogerKam/roberta_RCADE_fine_tuned_sentiment_covid_news,FIA,NIA,NIA,FIA,NIA,None dataset used
+amansolanki/autonlp-Tweet-Sentiment-Extraction-20114061,NIA,NIA,NIA,NIA,NIA,No info given
+cardiffnlp/twitter-xlm-roberta-base-sentiment-multilingual,FIA,NIA,NIA,NIA,NIA,data info given
+RecordedFuture/Swedish-Sentiment-Fear,FIA,NIA,NIA,NIA,NIA,We only know that data is swedish no other information
+knkarthick/Sentiment-Analysis,NIA,NIA,NIA,NIA,NIA,no info given
+cardiffnlp/camembert-base-tweet-sentiment-fr,FIA,NIA,NIA,NIA,NIA,data info given
+samayash/finetuning-financial-news-sentiment,FIA,NIA,NIA,FIA,NIA,None dataset mentioned
+sbcBI/sentiment_analysis,PIA,PIA,PIA,PIA,PIA,All the data in the columns are either given in paper or repo
+yangheng/deberta-v3-base-absa-v1.1,FIA,FIA,PIA,PIA,FIA,"only Training data and procedure directly mentioned in model card, rest in paper or repo"
+hakonmh/sentiment-xdistil-uncased,FIA,PIA,PIA,PIA,FIA,All PIA given in paper
+avichr/heBERT_sentiment_analysis,FIA,PIA,FIA,PIA,FIA,PIA given in paper and repo
+hw2942/bert-base-chinese-finetuning-financial-news-sentiment-v2,NIA,NIA,NIA,NIA,NIA,No model card
+Sigma/financial-sentiment-analysis,FIA,NIA,NIA,FIA,NIA,training data and hyperparameters given
+w11wo/indonesian-roberta-base-sentiment-classifier,FIA,PIA,PIA,PIA,FIA,All PIA given in paper
+j-hartmann/sentiment-roberta-large-english-3-classes,PIA,PIA,PIA,PIA,PIA,Given in paper
+CAMeL-Lab/bert-base-arabic-camelbert-da-sentiment,FIA,PIA,PIA,PIA,PIA,All PIA given in paper
+fergusq/finbert-finnsentiment,FIA,PIA,PIA,PIA,PIA,Given in paper (PIA)
+abnersampaio/sentiment,NIA,NIA,NIA,NIA,NIA,No information given
+neuraly/bert-base-italian-cased-sentiment,FIA,FIA,FIA,FIA,NIA,FIA given in model card
+citizenlab/twitter-xlm-roberta-base-sentiment-finetunned,FIA,NIA,NIA,NIA,NIA,Only training data mentioned
+MonoHime/rubert-base-cased-sentiment-new,FIA,NIA,NIA,NIA,PIA,Size of hyperparameters mentioned
+mdhugol/indonesia-bert-sentiment-classification,NIA,NIA,NIA,NIA,NIA,No information given
+Kyle1668/boss-sentiment-bert-base-uncased,NIA,NIA,NIA,NIA,FIA,Only size of hyperparameter is mentioned
+mwz/RomanUrduClassification,NIA,NIA,NIA,FIA,NIA,Only hyperparameters mentioned
+philschmid/distilbert-base-multilingual-cased-sentiment-2,FIA,NIA,NIA,FIA,NIA,Only training data and hyperparameters mentioned
+lucas-leme/FinBERT-PT-BR,PIA,PIA,PIA,PIA,PIA,All in paper
+peerapongch/baikal-sentiment-ball,NIA,NIA,NIA,NIA,NIA,no information given
+abhishek/autonlp-swahili-sentiment-615517563,NIA,NIA,NIA,NIA,NIA,no information given
+cointegrated/rubert-tiny-sentiment-balanced,FIA,PIA,PIA,PIA,FIA,colab book given for training and model parameters size mentioned
+Jean-Baptiste/roberta-large-financial-news-sentiment-en,FIA,NIA,NIA,NIA,FIA,Only training data and hyperparameters mentioned
+seara/rubert-tiny2-russian-sentiment,FIA,PIA,PIA,FIA,FIA,"PIA given in repo, model parameters size mentioned"
+mdraw/german-news-sentiment-bert,PIA,PIA,PIA,PIA,FIA,Given in paper/repo
+BVK97/Discord-NFT-Sentiment,FIA,NIA,NIA,NIA,NIA,Only info about training data in model card
+emre/turkish-sentiment-analysis,NIA,NIA,NIA,NIA,FIA,Information about size of training parameters mentioned
+alexandrainst/da-sentiment-base,FIA,PIA,FIA,PIA,FIA,"FIA given in model card, PIA given in repo"
+eevvgg/StanceBERTa,PIA,PIA,FIA,FIA,NIA,"PIA given in colab, FIA in model card"
+ayameRushia/roberta-base-indonesian-1.5G-sentiment-analysis-smsa,FIA,NIA,NIA,FIA,NIA,FIA given in model card
+Ammar-alhaj-ali/arabic-MARBERT-sentiment,FIA,NIA,NIA,NIA,NIA,only training data given
+yangheng/deberta-v3-large-absa-v1.1,FIA,FIA,PIA,PIA,FIA,"Parameter size given above demo, FIA in model card, PIA in paper"
+IAyoub/finetuning-bert-sentiment-reviews-2,FIA,NIA,NIA,FIA,NIA,FIA given in model card
+ayameRushia/bert-base-indonesian-1.5G-sentiment-analysis-smsa,FIA,NIA,NIA,FIA,NIA,FIA given in model card
+turing-usp/FinBertPTBR,NIA,NIA,NIA,NIA,NIA,No information given
+Voicelab/herbert-base-cased-sentiment,PIA,NIA,PIA,NIA,NIA,PIA given in blog
+Tejas3/distillbert_base_uncased_80_equal,NIA,NIA,NIA,NIA,NIA,No information given
+l3cube-pune/marathi-sentiment-md,FIA,PIA,PIA,NIA,FIA,"Parameter size given above demo, FIA in model card, PIA in paper/repo"
+shashanksrinath/News_Sentiment_Analysis,NIA,NIA,NIA,FIA,NIA,Only training hyperparameters given
+CAMeL-Lab/bert-base-arabic-camelbert-mix-sentiment,FIA,PIA,PIA,PIA,PIA,All PIA given in paper
+Jorgeutd/bert-base-uncased-finetuned-surveyclassification,FIA,NIA,NIA,FIA,FIA,model size mentioned above demo
+cardiffnlp/twitter-roberta-base-dec2021-sentiment,FIA,PIA,PIA,NIA,PIA,PIA given in paper and repo
+larskjeldgaard/senda,NIA,NIA,NIA,NIA,NIA,no information given
+Souvikcmsa/BERT_sentiment_analysis,NIA,FIA,NIA,NIA,NIA,Only training procedure given that model is trained using AutoTrain
+cardiffnlp/xlm-twitter-politics-sentiment,PIA,PIA,PIA,PIA,PIA,PIA given in papers and repo
+rohanrajpal/bert-base-multilingual-codemixed-cased-sentiment,PIA,NIA,NIA,NIA,NIA,training data is of that of the pretrained model
+hilmansw/indobert-finetuned-sentiment-happiness-index,PIA,NIA,NIA,FIA,NIA,Model is only fintenued version hence training data from parent model
+FinanceInc/auditor_sentiment_finetuned,FIA,FIA,NIA,FIA,NIA,FIA given in model card
+pysentimiento/roberta-targeted-sentiment-analysis,NIA,NIA,NIA,NIA,FIA,model size mentioned above demo
+RecordedFuture/Swedish-Sentiment-Violence,FIA,NIA,NIA,NIA,NIA,Information on what training data is given
+poerwiyanto/bert-base-indonesian-522M-finetuned-sentiment,FIA,NIA,NIA,FIA,NIA,Training data nd hyperparameters info given
+MarieAngeA13/Sentiment-Analysis-BERT,NIA,NIA,NIA,NIA,NIA,no information given
+poom-sci/WangchanBERTa-finetuned-sentiment,FIA,NIA,NIA,NIA,NIA,training data info given
+xaqren/sentiment_analysis,PIA,PIA,PIA,NIA,NIA,"Training data, procedure, and preprocessing will be of parent model for which information has been given"
+Davlan/naija-twitter-sentiment-afriberta-large,FIA,FIA,PIA,PIA,PIA,PIA columns given in paper
+bardsai/finance-sentiment-zh-base,FIA,NIA,NIA,NIA,NIA,training data info given
+seara/rubert-base-cased-russian-sentiment,FIA,PIA,PIA,FIA,FIA,"PIA given in repo, model size given above demo"
+blanchefort/rubert-base-cased-sentiment-med,FIA,NIA,NIA,NIA,FIA,"data info given, model size given above demo"
+hanifnoerr/Fine-tuned-Indonesian-Sentiment-Classifier,FIA,NIA,NIA,NIA,NIA,data info given
+RashidNLP/Finance-Sentiment-Classification,FIA,NIA,NIA,NIA,FIA,"model size given above demo, data info given"
+RogerKam/roberta_fine_tuned_sentiment_newsmtsc,FIA,NIA,NIA,FIA,NIA,only training data info and hyperparameter info given
+abnersampaio/sentimentv2,NIA,NIA,NIA,NIA,NIA,no information given
+cardiffnlp/xlm-roberta-base-tweet-sentiment-pt,FIA,NIA,NIA,NIA,NIA,data info given
+aari1995/German_Sentiment,FIA,NIA,NIA,NIA,FIA,model size given above demo
+ncduy/phobert-large-finetuned-vietnamese_students_feedback,NIA,NIA,NIA,FIA,NIA,Hyperparams given
+ZiweiChen/FinBERT-FOMC,PIA,PIA,PIA,PIA,NIA,PIA given in repo
+JP040/bert-german-sentiment-twitter,NIA,NIA,NIA,NIA,NIA,no information given
+alger-ia/dziribert_sentiment,PIA,PIA,PIA,PIA,FIA,"PIA given in paper/repo, model size given above demo"
+blanchefort/rubert-base-cased-sentiment-rurewiews,FIA,NIA,NIA,NIA,FIA,training data and model size (above demo) given
+z-dickson/multilingual_sentiment_newspaper_headlines,FIA,NIA,NIA,FIA,NIA,only training data info and hyperparameter info given
+rasmodev/Covid-19_Sentiment_Analysis_RoBERTa_Model,NIA,NIA,NIA,NIA,NIA,no information given
+CAMeL-Lab/bert-base-arabic-camelbert-msa-sentiment,FIA,PIA,PIA,PIA,PIA,All PIA given in paper

@@ -1,0 +1,102 @@
+Model Name,Model Description,,,,,,,,Model Sources [optional],,,,Comments
+,Developed by,Funded by [optional],Shared by [optional],Model type,Language(s) (NLP),License,Finetuned from model [optional],,Repository,Paper [optional],Demo [optional],Label Information,
+ProsusAI/finbert,FIA,PIA,FIA,FIA,FIA,PIA,FIA,,PIA,FIA,FIA,FIA,"Instead of repo, blog post has been shared, License link given in blog post"
+yiyanghkust/finbert-tone,PIA,PIA,PIA,FIA,FIA,PIA,FIA,,FIA,PIA,FIA,FIA,"Developer information given in citation and github repo, License given in repo"
+cardiffnlp/twitter-roberta-base-sentiment-latest,PIA,PIA,PIA,FIA,FIA,PIA,FIA,,FIA,FIA,FIA,FIA,PIA given in paper/repo
+cardiffnlp/twitter-xlm-roberta-base-sentiment,PIA,PIA,PIA,FIA,FIA,PIA,FIA,,FIA,FIA,FIA,FIA,"License in github repo, developer name not specifically mentioned"
+cardiffnlp/twitter-roberta-base-sentiment,PIA,PIA,PIA,FIA,FIA,PIA,FIA,,FIA,FIA,FIA,FIA,"License in github repo, developer name not specifically mentioned"
+blanchefort/rubert-base-cased-sentiment,PIA,NIA,NIA,FIA,FIA,NIA,FIA,,NIA,NIA,FIA,FIA,developer info given only in model name
+finiteautomata/beto-sentiment-analysis,PIA,PIA,PIA,FIA,FIA,FIA,FIA,,FIA,FIA,FIA,FIA,Developer info given only on search text (finiteautomata/beto-sentiment-analysis)
+mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis,PIA,NIA,NIA,FIA,FIA,FIA,FIA,,NIA,NIA,FIA,FIA,Developer info given only on search text (mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis)
+HooshvareLab/bert-fa-base-uncased-sentiment-digikala,PIA,NIA,NIA,FIA,FIA,PIA,FIA,,FIA,NIA,FIA,FIA,
+ahmedrachid/FinancialBERT-Sentiment-Analysis,FIA,NIA,NIA,FIA,FIA,NIA,FIA,,NIA,FIA,FIA,FIA,
+koheiduck/bert-japanese-finetuned-sentiment,PIA,NIA,NIA,NIA,FIA,NIA,NIA,,NIA,NIA,FIA,FIA,
+finiteautomata/bertweet-base-sentiment-analysis,PIA,PIA,PIA,FIA,FIA,FIA,FIA,,FIA,FIA,FIA,FIA,assuming funder and sharer to be universities/companies of authors in paper
+oliverguhr/german-sentiment-bert,PIA,PIA,PIA,FIA,FIA,FIA,FIA,,FIA,FIA,FIA,FIA,assuming funder and sharer to be universities/companies of authors in paper
+christian-phu/bert-finetuned-japanese-sentiment,PIA,NIA,NIA,FIA,FIA,FIA,FIA,,NIA,NIA,FIA,FIA,developer name in model name
+blanchefort/rubert-base-cased-sentiment-rusentiment,PIA,NIA,NIA,FIA,FIA,NIA,FIA,,NIA,NIA,FIA,FIA,developer name in model name
+climatebert/distilroberta-base-climate-sentiment,PIA,NIA,NIA,FIA,FIA,FIA,FIA,,NIA,NIA,FIA,FIA,developer name in model name
+Seethal/sentiment_analysis_generic_dataset,PIA,NIA,NIA,FIA,FIA,NIA,FIA,,NIA,NIA,FIA,NIA,No Label information
+sbcBI/sentiment_analysis_model,PIA,PIA,PIA,FIA,FIA,FIA,FIA,,FIA,FIA,FIA,NIA,"No Label information,assuming funder and sharer to be universities/companies of authors in paper"
+lxyuan/distilbert-base-multilingual-cased-sentiments-student,PIA,NIA,NIA,FIA,FIA,FIA,FIA,,FIA,NIA,FIA,FIA,developer name in model name
+snunlp/KR-FinBert-SC,PIA,NIA,NIA,FIA,FIA,NIA,FIA,,NIA,NIA,FIA,FIA,developer name in model name
+soleimanian/financial-roberta-large-sentiment,PIA,NIA,NIA,FIA,FIA,FIA,FIA,,NIA,NIA,FIA,FIA,developer name in model name
+RogerKam/roberta_RCADE_fine_tuned_sentiment_covid_news,PIA,NIA,NIA,FIA,FIA,FIA,FIA,,NIA,NIA,FIA,NIA,developer name in model name
+amansolanki/autonlp-Tweet-Sentiment-Extraction-20114061,PIA,NIA,NIA,NIA,FIA,NIA,NIA,,NIA,NIA,NIA,NIA,"Inference API not working, hence no idea about labels, developer name in model name"
+cardiffnlp/twitter-xlm-roberta-base-sentiment-multilingual,PIA,NIA,NIA,FIA,FIA,PIA,FIA,,FIA,PIA,NIA,FIA,"tweetnlp repo given, paper in repo and license in repo"
+RecordedFuture/Swedish-Sentiment-Fear,PIA,PIA,PIA,FIA,FIA,FIA,FIA,,NIA,NIA,FIA,NIA,"No Label information, "
+knkarthick/Sentiment-Analysis,PIA,NIA,NIA,NIA,NIA,NIA,NIA,,NIA,NIA,FIA,FIA,Label information given and developer name in model name
+cardiffnlp/camembert-base-tweet-sentiment-fr,PIA,NIA,NIA,FIA,FIA,NIA,FIA,,NIA,NIA,FIA,FIA,developer name in model name
+samayash/finetuning-financial-news-sentiment,PIA,NIA,NIA,FIA,FIA,FIA,FIA,,NIA,NIA,NIA,NIA,"Language information not present in model card, but present in parent model"
+sbcBI/sentiment_analysis,PIA,PIA,PIA,FIA,FIA,FIA,FIA,,FIA,FIA,FIA,NIA,"In the model card, It is not mentioned who has developed, funded or shared this model, but in the given paper we can see that it is written by Google AI."
+yangheng/deberta-v3-base-absa-v1.1,PIA,PIA,PIA,FIA,FIA,FIA,FIA,,FIA,FIA,FIA,FIA,Developer info not given in model card
+hakonmh/sentiment-xdistil-uncased,PIA,PIA,PIA,FIA,FIA,FIA,FIA,,NIA,FIA,FIA,FIA,"Developer info not given in model card, but in paper all authors are from university of zurich"
+avichr/heBERT_sentiment_analysis,PIA,PIA,PIA,FIA,FIA,PIA,FIA,,FIA,FIA,FIA,FIA,License and developer info in repo
+hw2942/bert-base-chinese-finetuning-financial-news-sentiment-v2,NIA,NIA,NIA,NIA,PIA,NIA,NIA,,NIA,NIA,FIA,FIA,No Model card
+Sigma/financial-sentiment-analysis,PIA,NIA,NIA,PIA,PIA,NIA,FIA,,NIA,NIA,FIA,NIA,"developer info only in model name, model type and languages is not mentioned but we can get the information from parent model"
+w11wo/indonesian-roberta-base-sentiment-classifier,FIA,PIA,PIA,FIA,FIA,FIA,FIA,,NIA,FIA,FIA,FIA,Paper is written by Allen school of computer science and Facebook AI and hence assumption it is shared and funded by them
+j-hartmann/sentiment-roberta-large-english-3-classes,FIA,NIA,PIA,FIA,FIA,NIA,FIA,,NIA,FIA,FIA,FIA,
+CAMeL-Lab/bert-base-arabic-camelbert-da-sentiment,PIA,PIA,PIA,FIA,FIA,FIA,FIA,,FIA,FIA,FIA,FIA,details about author is given in citation
+fergusq/finbert-finnsentiment,PIA,PIA,PIA,FIA,FIA,FIA,FIA,,NIA,FIA,FIA,FIA,"developer not specifically mentioned, can assume authors of paper and university funded and shared"
+abnersampaio/sentiment,PIA,NIA,NIA,NIA,NIA,FIA,NIA,,NIA,NIA,FIA,NIA,"No model card, developer name in model name"
+neuraly/bert-base-italian-cased-sentiment,FIA,NIA,NIA,FIA,FIA,FIA,FIA,,NIA,NIA,FIA,FIA,Developer info given in model card. No paper or repo
+citizenlab/twitter-xlm-roberta-base-sentiment-finetunned,PIA,NIA,NIA,FIA,FIA,NIA,FIA,,NIA,NIA,FIA,FIA,"developer name not directly given, given in model name"
+MonoHime/rubert-base-cased-sentiment-new,FIA,NIA,FIA,FIA,FIA,NIA,FIA,,NIA,FIA,FIA,FIA,"Paper is not source for model but quantifying carbon emissions, hence paper for model not given"
+mdhugol/indonesia-bert-sentiment-classification,PIA,NIA,NIA,FIA,FIA,NIA,FIA,,NIA,NIA,FIA,NIA,"developer name not directly given, given in model name"
+Kyle1668/boss-sentiment-bert-base-uncased,PIA,NIA,NIA,NIA,NIA,NIA,NIA,,NIA,NIA,FIA,NIA,"No model card, developer name in model name"
+mwz/RomanUrduClassification,PIA,NIA,NIA,NIA,PIA,FIA,FIA,,NIA,NIA,FIA,NIA,"No label info, developer name and language not specifically mentioned"
+philschmid/distilbert-base-multilingual-cased-sentiment-2,PIA,NIA,NIA,FIA,FIA,FIA,FIA,,NIA,NIA,FIA,FIA,"developer name not directly given, given in model name"
+lucas-leme/FinBERT-PT-BR,FIA,PIA,PIA,FIA,FIA,FIA,FIA,,NIA,FIA,FIA,FIA,"Assumption that university funds author, author mentioned"
+peerapongch/baikal-sentiment-ball,PIA,NIA,NIA,NIA,NIA,NIA,NIA,,NIA,NIA,FIA,NIA,"developer name not directly given, given in model name"
+abhishek/autonlp-swahili-sentiment-615517563,PIA,NIA,NIA,PIA,FIA,NIA,NIA,,NIA,NIA,NIA,NIA,"developer name not directly given, given in model name, no information about model directly given"
+cointegrated/rubert-tiny-sentiment-balanced,PIA,NIA,NIA,FIA,FIA,NIA,FIA,,NIA,NIA,FIA,FIA,"developer name not directly given, but in model name, rest FIA given"
+Jean-Baptiste/roberta-large-financial-news-sentiment-en,PIA,NIA,NIA,FIA,FIA,FIA,FIA,,NIA,NIA,FIA,FIA,"FIA given in model card, developer name in model name"
+seara/rubert-tiny2-russian-sentiment,PIA,NIA,NIA,FIA,FIA,FIA,FIA,,FIA,NIA,FIA,FIA,"FIA given in model card, developer name in model name"
+mdraw/german-news-sentiment-bert,PIA,PIA,PIA,FIA,FIA,PIA,FIA,,FIA,PIA,FIA,FIA,"License given in repo, paper given in github repo, developer name in model name"
+BVK97/Discord-NFT-Sentiment,PIA,NIA,NIA,FIA,FIA,NIA,FIA,,FIA,NIA,FIA,FIA,"Assuming developer name is the one given in model name, that is the only information"
+emre/turkish-sentiment-analysis,PIA,NIA,NIA,PIA,FIA,NIA,NIA,,NIA,NIA,NIA,NIA,"PIA given for developer name coz name only in model name, model ID given hence, PIA"
+alexandrainst/da-sentiment-base,FIA,PIA,FIA,FIA,FIA,FIA,FIA,,FIA,FIA,FIA,FIA,"All FIA given in model card, sponsor mentioned in repo"
+eevvgg/StanceBERTa,FIA,NIA,NIA,FIA,FIA,NIA,FIA,,NIA,NIA,FIA,FIA,Colab notebook given
+ayameRushia/roberta-base-indonesian-1.5G-sentiment-analysis-smsa,PIA,NIA,NIA,FIA,FIA,NIA,FIA,,NIA,NIA,FIA,FIA,developer name in model name but not specifically mentioned
+Ammar-alhaj-ali/arabic-MARBERT-sentiment,PIA,NIA,NIA,FIA,FIA,NIA,FIA,,NIA,NIA,FIA,FIA,developer name in model name but not specifically mentioned
+yangheng/deberta-v3-large-absa-v1.1,PIA,PIA,PIA,FIA,FIA,FIA,FIA,,FIA,FIA,FIA,FIA,"developer name in model name but not specifically mentioned, funder and sharer assumed to be university in paper"
+IAyoub/finetuning-bert-sentiment-reviews-2,PIA,NIA,NIA,FIA,FIA,FIA,FIA,,NIA,NIA,FIA,NIA,developer name in model name but not specifically mentioned
+ayameRushia/bert-base-indonesian-1.5G-sentiment-analysis-smsa,PIA,NIA,NIA,FIA,FIA,FIA,FIA,,NIA,NIA,FIA,FIA,developer name in model name but not specifically mentioned
+turing-usp/FinBertPTBR,FIA,NIA,NIA,FIA,FIA,FIA,FIA,,NIA,NIA,FIA,FIA,Author name mentioned
+Voicelab/herbert-base-cased-sentiment,FIA,FIA,FIA,FIA,FIA,FIA,FIA,,NIA,NIA,FIA,FIA,"Assuming Voice Lab is funding, sharing and developing as voice lab is specifically mentioned in model card"
+Tejas3/distillbert_base_uncased_80_equal,PIA,NIA,NIA,NIA,NIA,NIA,NIA,,NIA,NIA,FIA,FIA,"No model card, developer name in model name"
+l3cube-pune/marathi-sentiment-md,PIA,PIA,PIA,FIA,FIA,FIA,FIA,,FIA,FIA,FIA,FIA,Mahasent could be funder (assumption)
+shashanksrinath/News_Sentiment_Analysis,PIA,NIA,NIA,NIA,PIA,NIA,FIA,,NIA,NIA,FIA,FIA,"for language PIA, and parent model is given, so indirectly language is given"
+CAMeL-Lab/bert-base-arabic-camelbert-mix-sentiment,PIA,PIA,PIA,FIA,FIA,FIA,FIA,,FIA,FIA,FIA,FIA,details about author is given in citation
+Jorgeutd/bert-base-uncased-finetuned-surveyclassification,PIA,NIA,NIA,FIA,FIA,FIA,FIA,,NIA,NIA,FIA,FIA,"developer name not directly given, given in model name"
+cardiffnlp/twitter-roberta-base-dec2021-sentiment,PIA,PIA,PIA,FIA,FIA,PIA,FIA,,FIA,PIA,FIA,FIA,"cardiff assumed to be funder and sharer, developer name not directly given, given in model name, paper given in repo"
+larskjeldgaard/senda,PIA,PIA,PIA,FIA,FIA,FIA,FIA,,NIA,NIA,FIA,FIA,"developer name not directly given, given in model name, assuming funded and shared by alexandra institute which is mentioned in model card"
+Souvikcmsa/BERT_sentiment_analysis,PIA,NIA,NIA,NIA,FIA,NIA,NIA,,NIA,NIA,NIA,NIA,"developer name not directly given, given in model name"
+cardiffnlp/xlm-twitter-politics-sentiment,PIA,PIA,PIA,FIA,FIA,PIA,FIA,,FIA,FIA,FIA,FIA,License given in repo 
+rohanrajpal/bert-base-multilingual-codemixed-cased-sentiment,PIA,NIA,NIA,FIA,FIA,FIA,FIA,,NIA,NIA,FIA,NIA,"developer name not directly given, given in model name"
+hilmansw/indobert-finetuned-sentiment-happiness-index,PIA,NIA,NIA,FIA,FIA,FIA,FIA,,NIA,NIA,FIA,FIA,"developer name not directly given, given in model name"
+FinanceInc/auditor_sentiment_finetuned,PIA,NIA,NIA,FIA,FIA,NIA,FIA,,NIA,NIA,FIA,FIA,"developer name not directly given, given in model name"
+pysentimiento/roberta-targeted-sentiment-analysis,PIA,NIA,NIA,NIA,NIA,NIA,NIA,,NIA,NIA,FIA,FIA,"developer name not directly given, given in model name"
+RecordedFuture/Swedish-Sentiment-Violence,FIA,PIA,PIA,FIA,FIA,FIA,FIA,,NIA,NIA,FIA,NIA,Assuming RecordedAI and  AI sweden to be funder and sharer as they are mentioned in model card
+poerwiyanto/bert-base-indonesian-522M-finetuned-sentiment,PIA,NIA,NIA,FIA,FIA,FIA,FIA,,NIA,NIA,FIA,NIA,"developer name not directly given, given in model name"
+MarieAngeA13/Sentiment-Analysis-BERT,PIA,NIA,NIA,FIA,FIA,FIA,FIA,,NIA,NIA,FIA,FIA,"developer name not directly given, given in model name"
+poom-sci/WangchanBERTa-finetuned-sentiment,PIA,NIA,NIA,FIA,FIA,FIA,NIA,,NIA,NIA,FIA,FIA,"FIA given in tags and demo given, developer name not directly given, given in model name"
+xaqren/sentiment_analysis,PIA,NIA,NIA,FIA,FIA,FIA,FIA,,NIA,NIA,FIA,NIA,"Paper and repo given of bert and not fine tuned model, hence assuming no other source for fin tuned model, developer name in model name"
+Davlan/naija-twitter-sentiment-afriberta-large,FIA,PIA,PIA,FIA,FIA,NIA,FIA,,NIA,FIA,FIA,FIA,Assuming univeristy and google to have funded and shared as authors of the paper are from these institutions
+bardsai/finance-sentiment-zh-base,FIA,PIA,PIA,FIA,FIA,NIA,FIA,,NIA,NIA,FIA,FIA,about company mentioned who developed model
+seara/rubert-base-cased-russian-sentiment,PIA,NIA,NIA,FIA,FIA,FIA,FIA,,FIA,NIA,FIA,FIA, developer name in model name
+blanchefort/rubert-base-cased-sentiment-med,PIA,NIA,NIA,FIA,FIA,NIA,FIA,,NIA,NIA,FIA,FIA, developer name in model name
+hanifnoerr/Fine-tuned-Indonesian-Sentiment-Classifier,PIA,NIA,NIA,FIA,FIA,FIA,FIA,,NIA,NIA,FIA,FIA, developer name in model name
+RashidNLP/Finance-Sentiment-Classification,PIA,NIA,NIA,FIA,FIA,FIA,FIA,,NIA,NIA,FIA,FIA, developer name in model name
+RogerKam/roberta_fine_tuned_sentiment_newsmtsc,PIA,NIA,NIA,FIA,FIA,FIA,FIA,,NIA,NIA,FIA,NIA, developer name in model name
+abnersampaio/sentimentv2,PIA,NIA,NIA,NIA,NIA,FIA,NIA,,NIA,NIA,FIA,NIA, developer name in model name
+cardiffnlp/xlm-roberta-base-tweet-sentiment-pt,PIA,PIA,PIA,FIA,FIA,NIA,FIA,,NIA,NIA,FIA,FIA,"fine tuned version of another cardiff nlp, paper of parent given"
+aari1995/German_Sentiment,FIA,NIA,NIA,FIA,FIA,NIA,FIA,,NIA,NIA,FIA,FIA,model developer mentioned specifically
+ncduy/phobert-large-finetuned-vietnamese_students_feedback,PIA,NIA,NIA,FIA,FIA,NIA,FIA,,NIA,NIA,FIA,FIA,developer name in model name
+ZiweiChen/FinBERT-FOMC,PIA,NIA,NIA,FIA,FIA,NIA,FIA,,FIA,NIA,FIA,FIA,developer name in model name
+JP040/bert-german-sentiment-twitter,PIA,NIA,NIA,NIA,NIA,NIA,NIA,,NIA,NIA,FIA,FIA,developer name in model name
+alger-ia/dziribert_sentiment,PIA,PIA,PIA,FIA,FIA,PIA,FIA,,FIA,FIA,FIA,FIA,"details about author is given in citation, assuming funded and shared by institution of authors of paper"
+blanchefort/rubert-base-cased-sentiment-rurewiews,PIA,NIA,NIA,FIA,FIA,NIA,FIA,,NIA,NIA,FIA,FIA,developer name in model name
+z-dickson/multilingual_sentiment_newspaper_headlines,PIA,NIA,NIA,FIA,FIA,FIA,FIA,,NIA,NIA,FIA,FIA,developer name in model name
+rasmodev/Covid-19_Sentiment_Analysis_RoBERTa_Model,PIA,NIA,NIA,NIA,NIA,FIA,NIA,,NIA,NIA,FIA,NIA,developer name in model name
+CAMeL-Lab/bert-base-arabic-camelbert-msa-sentiment,PIA,PIA,PIA,FIA,FIA,FIA,FIA,,FIA,FIA,FIA,FIA,"details about author is given in citation, assuming funded and shared by institution of authors of paper"

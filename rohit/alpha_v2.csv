@@ -1,0 +1,40 @@
+,Krippendorff_Alpha
+Developed by,-0.26696806990354127
+Funded by [optional],-0.258138229219107
+Shared by [optional],-0.06326070820990126
+Model type,-0.007546371739185043
+Language(s) (NLP),-0.03744205869726214
+License,-0.06852423181748968
+Finetuned from model [optional],0.4573270354384815
+Repository,0.14729564553093977
+Paper [optional],-0.1677160080375084
+Demo [optional],0.19285419116945868
+Label Information,0.38813109824106284
+Training Data,-0.14257713309078235
+Training Procedure,-0.16655902716196458
+Preprocessing [optional],0.36565672715644726
+Training Hyperparameters,0.27024260679001655
+"Speeds, Sizes, Times [optional]",0.21888705234159778
+Testing Data,0.22055008437649537
+Factors,0.26387593785416097
+Metrics,0.22025108573293872
+Results,0.18284884682185132
+Summary,0.25280416539729145
+Model Examination [optional],-0.004621130594416822
+Environmental Impact,0.27439418544153105
+Technical Specifications [optional],0.1816969264274112
+Model Architecture and Objective,0.19908271381391962
+Compute Infrastructure,-0.0032511514494717453
+Hardware,0.1779568345323742
+Software,0.09278815777597249
+Citation [optional],0.5138474061139957
+Glossary [optional],0.17662996483541826
+More Information [optional],-0.003160556257901348
+Model Card Authors [optional],0.30282618245716786
+Model Card Contact,0.2157153446997775
+Direct Use,-0.26001609380388424
+Downstream Use [optional],0.4990530303030303
+Out-of-Scope Use,
+"Bias, Risks, and Limitations",-0.3149580049048104
+Recommendations,0.10830172777075442
+How to Get Started with the Model,0.2877560381611123

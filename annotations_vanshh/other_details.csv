@@ -1,0 +1,101 @@
+Model Name,Model Examination [optional],Environmental Impact,Technical Specifications [optional],Model Architecture and Objective,Compute Infrastructure,Hardware,Software,Citation [optional],Glossary [optional],More Information [optional],Model Card Authors [optional],Model Card Contact,Comments
+ProsusAI/finbert,PIA,NIA,PIA,FIA,PIA,NIA,NIA,NIA,NIA,FIA,FIA,FIA,PIA in blog/paper/repo
+yiyanghkust/finbert-tone,PIA,NIA,PIA,FIA,PIA,NIA,NIA,FIA,NIA,FIA,PIA,PIA,"Contact given in repo, PIA in repo/paper"
+cardiffnlp/twitter-roberta-base-sentiment-latest,PIA,NIA,PIA,FIA,PIA,NIA,PIA,FIA,NIA,FIA,PIA,PIA,all PIA in repo/paper
+cardiffnlp/twitter-xlm-roberta-base-sentiment,PIA,NIA,PIA,PIA,PIA,NIA,NIA,FIA,NIA,FIA,PIA,PIA,PIA given in paper/repo
+cardiffnlp/twitter-roberta-base-sentiment,PIA,NIA,PIA,PIA,PIA,NIA,NIA,FIA,NIA,FIA,PIA,PIA,"All PIA given in paper/repo, author and contact not specifically mentioned"
+blanchefort/rubert-base-cased-sentiment,NIA,NIA,NIA,PIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,"Only information about author is in the search text (blanchefort/rubert-base-cased-sentiment), no other info or contact info"
+finiteautomata/beto-sentiment-analysis,NIA,NIA,PIA,PIA,PIA,NIA,NIA,FIA,NIA,NIA,PIA,NIA,All columns with FIA given in paper
+mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,no information given
+HooshvareLab/bert-fa-base-uncased-sentiment-digikala,PIA,NIA,PIA,PIA,NIA,NIA,NIA,FIA,NIA,FIA,NIA,NIA,All PIA and FIA columns in repo
+ahmedrachid/FinancialBERT-Sentiment-Analysis,PIA,NIA,PIA,PIA,PIA,NIA,NIA,NIA,NIA,FIA,FIA,NIA,All PIA columns in paper
+koheiduck/bert-japanese-finetuned-sentiment,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,
+finiteautomata/bertweet-base-sentiment-analysis,PIA,NIA,PIA,PIA,PIA,NIA,NIA,FIA,NIA,FIA,PIA,PIA,All PIA columns given in paper or repo
+oliverguhr/german-sentiment-bert,PIA,NIA,PIA,PIA,PIA,NIA,NIA,FIA,NIA,FIA,PIA,PIA,All PIA columns given in paper or repo
+christian-phu/bert-finetuned-japanese-sentiment,NIA,NIA,PIA,PIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,
+blanchefort/rubert-base-cased-sentiment-rusentiment,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,no info given
+climatebert/distilroberta-base-climate-sentiment,NIA,NIA,NIA,NIA,NIA,NIA,NIA,FIA,NIA,NIA,NIA,NIA,
+Seethal/sentiment_analysis_generic_dataset,NIA,NIA,NIA,PIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,
+sbcBI/sentiment_analysis_model,NIA,NIA,PIA,PIA,PIA,NIA,NIA,PIA,NIA,FIA,PIA,PIA,PIA in repo/paper
+lxyuan/distilbert-base-multilingual-cased-sentiments-student,PIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,FIA,NIA,NIA,PIA in repo/paper
+snunlp/KR-FinBert-SC,NIA,NIA,PIA,FIA,FIA,NIA,NIA,FIA,NIA,NIA,NIA,NIA,"tech specs PIA because FIA for compute infrastructure, and model objective but not for hardware and software"
+soleimanian/financial-roberta-large-sentiment,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,FIA,FIA,author and contact FIA given
+RogerKam/roberta_RCADE_fine_tuned_sentiment_covid_news,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,no information given
+amansolanki/autonlp-Tweet-Sentiment-Extraction-20114061,NIA,FIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,carbon emissions given
+cardiffnlp/twitter-xlm-roberta-base-sentiment-multilingual,PIA,NIA,PIA,PIA,PIA,NIA,NIA,FIA,NIA,FIA,PIA,PIA,PIA in repo/paper
+RecordedFuture/Swedish-Sentiment-Fear,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,no information given
+knkarthick/Sentiment-Analysis,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,no information given
+cardiffnlp/camembert-base-tweet-sentiment-fr,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,no information given
+samayash/finetuning-financial-news-sentiment,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,No information in model card
+sbcBI/sentiment_analysis,PIA,NIA,PIA,PIA,PIA,NIA,NIA,PIA,NIA,FIA,PIA,PIA,All PIA columns given in paper or repo
+yangheng/deberta-v3-base-absa-v1.1,PIA,NIA,PIA,FIA,NIA,NIA,NIA,FIA,NIA,FIA,PIA,PIA,"Model card author or contact not mentioned directly in model card, reasoning/ conclusion given in paper hence PIA"
+hakonmh/sentiment-xdistil-uncased,PIA,NIA,PIA,FIA,NIA,NIA,NIA,FIA,NIA,FIA,PIA,PIA,"Model card author or contact not mentioned directly in model card, reasoning/ conclusion given in paper hence PIA"
+avichr/heBERT_sentiment_analysis,PIA,NIA,PIA,FIA,PIA,NIA,NIA,FIA,NIA,FIA,PIA,PIA,all PIA in paper/repo
+hw2942/bert-base-chinese-finetuning-financial-news-sentiment-v2,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,No model card
+Sigma/financial-sentiment-analysis,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,None of the column information is given
+w11wo/indonesian-roberta-base-sentiment-classifier,PIA,NIA,PIA,FIA,PIA,PIA,NIA,FIA,NIA,PIA,FIA,PIA,No specific section for model card contact and more information but indirectly can be found
+j-hartmann/sentiment-roberta-large-english-3-classes,PIA,NIA,NIA,NIA,NIA,NIA,NIA,FIA,NIA,FIA,FIA,FIA,model card contact mentioned in model card which also tells about the author
+CAMeL-Lab/bert-base-arabic-camelbert-da-sentiment,PIA,NIA,PIA,PIA,PIA,NIA,NIA,FIA,NIA,FIA,PIA,PIA,"Model card author indirectly given in citation, and contact in paper/repo"
+fergusq/finbert-finnsentiment,PIA,NIA,PIA,PIA,NIA,NIA,NIA,NIA,NIA,FIA,PIA,PIA,Model card authors and contact not specifically mentioned
+abnersampaio/sentiment,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,No information in model card
+neuraly/bert-base-italian-cased-sentiment,NIA,NIA,PIA,FIA,FIA,FIA,NIA,NIA,NIA,FIA,FIA,PIA,Contact given on website. Technical specs is PIA becuase software is NIA (software comes under Tech specs)
+citizenlab/twitter-xlm-roberta-base-sentiment-finetunned,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,No information in model card
+MonoHime/rubert-base-cased-sentiment-new,NIA,PIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,FIA,NIA,Actual carbon emission not calculated but told how to calculate and gave paper link
+mdhugol/indonesia-bert-sentiment-classification,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,No information in model card
+Kyle1668/boss-sentiment-bert-base-uncased,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,No information in model card
+mwz/RomanUrduClassification,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,No information in model card
+philschmid/distilbert-base-multilingual-cased-sentiment-2,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,no information in model card
+lucas-leme/FinBERT-PT-BR,PIA,NIA,PIA,PIA,PIA,NIA,NIA,NIA,NIA,FIA,FIA,FIA,"Author and contact mentioned, PIA in paper"
+peerapongch/baikal-sentiment-ball,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,no information in model card
+abhishek/autonlp-swahili-sentiment-615517563,NIA,FIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,only carbon emissions given
+cointegrated/rubert-tiny-sentiment-balanced,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,no information in model card
+Jean-Baptiste/roberta-large-financial-news-sentiment-en,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,no information in model card
+seara/rubert-tiny2-russian-sentiment,PIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,FIA,NIA,NIA,more infor links are given
+mdraw/german-news-sentiment-bert,PIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,FIA,PIA,PIA,Author and contact through paper and repo
+BVK97/Discord-NFT-Sentiment,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,FIA,NIA,NIA,Link to github repo given
+emre/turkish-sentiment-analysis,NIA,FIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,only carbon emissions given
+alexandrainst/da-sentiment-base,NIA,PIA,NIA,NIA,PIA,NIA,NIA,NIA,NIA,FIA,FIA,NIA,"FIA given in model card, PIA in paper/repo"
+eevvgg/StanceBERTa,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,FIA,NIA,NIA,only more info given in the form of colab notebook and other links
+ayameRushia/roberta-base-indonesian-1.5G-sentiment-analysis-smsa,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,no information in model card
+Ammar-alhaj-ali/arabic-MARBERT-sentiment,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,no information in model card
+yangheng/deberta-v3-large-absa-v1.1,PIA,NIA,PIA,PIA,PIA,NIA,NIA,FIA,NIA,FIA,PIA,PIA,"Contact and authors on repo/paper, PIA given in paper"
+IAyoub/finetuning-bert-sentiment-reviews-2,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,no information in model card
+ayameRushia/bert-base-indonesian-1.5G-sentiment-analysis-smsa,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,no information in model card
+turing-usp/FinBertPTBR,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,FIA,NIA,Author name mentioned
+Voicelab/herbert-base-cased-sentiment,PIA,NIA,NIA,PIA,NIA,NIA,NIA,NIA,NIA,FIA,FIA,NIA,"Assuming voice lab is author and more infoo (blog post) shared, PIA given in blog"
+Tejas3/distillbert_base_uncased_80_equal,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,no information in model card
+l3cube-pune/marathi-sentiment-md,PIA,NIA,PIA,PIA,NIA,NIA,NIA,FIA,NIA,FIA,PIA,PIA,"Tech specs given PIA, becuase model architecture and objective in paper/repo hence PIA. PIA igiven in paper/repo"
+shashanksrinath/News_Sentiment_Analysis,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,no information in model card
+CAMeL-Lab/bert-base-arabic-camelbert-mix-sentiment,PIA,NIA,PIA,PIA,PIA,NIA,NIA,FIA,NIA,FIA,PIA,PIA,"Model card author indirectly given in citation, and contact in paper/repo"
+Jorgeutd/bert-base-uncased-finetuned-surveyclassification,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,no information in model card
+cardiffnlp/twitter-roberta-base-dec2021-sentiment,PIA,NIA,PIA,PIA,PIA,NIA,NIA,FIA,NIA,FIA,PIA,PIA,"Contact and authors on repo/paper, PIA given in paper"
+larskjeldgaard/senda,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,no information in model card
+Souvikcmsa/BERT_sentiment_analysis,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,no information in model card
+cardiffnlp/xlm-twitter-politics-sentiment,PIA,NIA,PIA,PIA,PIA,NIA,NIA,PIA,NIA,FIA,PIA,PIA,PIA given in paper/repo
+rohanrajpal/bert-base-multilingual-codemixed-cased-sentiment,NIA,NIA,NIA,NIA,NIA,NIA,NIA,FIA,NIA,NIA,NIA,NIA,citation given
+hilmansw/indobert-finetuned-sentiment-happiness-index,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,no information in model card
+FinanceInc/auditor_sentiment_finetuned,NIA,FIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,Carbon emissions given
+pysentimiento/roberta-targeted-sentiment-analysis,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,no information in model card
+RecordedFuture/Swedish-Sentiment-Violence,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,no information in model card
+poerwiyanto/bert-base-indonesian-522M-finetuned-sentiment,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,no information in model card
+MarieAngeA13/Sentiment-Analysis-BERT,NIA,NIA,PIA,FIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,Taking tech specs to be PIA becuase model architecture and objective information given and not others under tech specs
+poom-sci/WangchanBERTa-finetuned-sentiment,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,no information in model card
+xaqren/sentiment_analysis,NIA,NIA,PIA,PIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,PIA column information due to parent model and its information has been given
+Davlan/naija-twitter-sentiment-afriberta-large,PIA,NIA,PIA,PIA,FIA,NIA,NIA,FIA,NIA,FIA,PIA,PIA,PIA columns from paper
+bardsai/finance-sentiment-zh-base,NIA,NIA,PIA,NIA,FIA,NIA,NIA,NIA,NIA,NIA,FIA,FIA,Taking tech specs to be PIA becuase compute infrastructure information given and not others under tech specs
+seara/rubert-base-cased-russian-sentiment,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,no information in model card
+blanchefort/rubert-base-cased-sentiment-med,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,no information in model card
+hanifnoerr/Fine-tuned-Indonesian-Sentiment-Classifier,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,no information in model card
+RashidNLP/Finance-Sentiment-Classification,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,no information in model card
+RogerKam/roberta_fine_tuned_sentiment_newsmtsc,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,no information in model card
+abnersampaio/sentimentv2,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,no information in model card
+cardiffnlp/xlm-roberta-base-tweet-sentiment-pt,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,no information in model card
+aari1995/German_Sentiment,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,no information in model card
+ncduy/phobert-large-finetuned-vietnamese_students_feedback,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,no information in model card
+ZiweiChen/FinBERT-FOMC,PIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,FIA,NIA,NIA,Github repo given as more info
+JP040/bert-german-sentiment-twitter,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,no information in model card
+alger-ia/dziribert_sentiment,PIA,NIA,PIA,PIA,PIA,NIA,NIA,FIA,NIA,FIA,PIA,FIA,"PIA given in paper, FIA in model card"
+blanchefort/rubert-base-cased-sentiment-rurewiews,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,no information in model card
+z-dickson/multilingual_sentiment_newspaper_headlines,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,no information in model card
+rasmodev/Covid-19_Sentiment_Analysis_RoBERTa_Model,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,NIA,no information in model card
+CAMeL-Lab/bert-base-arabic-camelbert-msa-sentiment,PIA,NIA,PIA,PIA,PIA,NIA,NIA,FIA,NIA,FIA,PIA,PIA,"Model card author indirectly given in citation, and contact in paper/repo"
